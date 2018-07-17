@@ -1,0 +1,35 @@
+body{
+
+
+}
+.div_contenier{
+	width: 1024px;
+	margin: 0 auto;
+}
+.div_vitrin_conteiner{
+	width:1024px;
+	border: thin solid gray; 
+	display: inline-block;
+	padding: 10px;
+}
+
+.div_vitrin_kutu{
+	width: 300px;
+	padding: 5px; 
+	float: left; "
+}
+.vitrin_baslik{
+	width: 290px;
+	border: thin solid red;
+	padding: 5px;
+}
+.vitrin_resim{
+	width: 290px;
+	border: thin solid red;
+	padding: 5px;
+}
+.vitrin_aciklama{
+	width: 290px;
+	border: thin solid red;
+	padding: 5px;
+}
